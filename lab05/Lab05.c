@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+/* Emre YILMAZ 1901042606 */
 
 int main(){
 	
