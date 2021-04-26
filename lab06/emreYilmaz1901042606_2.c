@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* Emre YILMAZ 1901042606 */
+
 int main()
 {
 	printf("Enter a number : ");
