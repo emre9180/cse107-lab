@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* Emre YILMAZ 1901042606 */
+
 void if_composite(int num)
 {
 
