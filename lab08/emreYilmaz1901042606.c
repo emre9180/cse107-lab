@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 
+/* Emre YILMAZ 1901042606 */
 
 int main()
 {
