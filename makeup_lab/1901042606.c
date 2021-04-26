@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+/* Emre YILMAZ 1901042606 */
+
 int N = 3;
 
 struct info
