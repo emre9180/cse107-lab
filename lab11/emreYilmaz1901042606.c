@@ -1,6 +1,8 @@
 #include <stdio.h>
 #define filename "TASK.txt"
 
+/* Emre YILMAZ 1901042606 */
+
 struct students
 {
 	char name[15];
